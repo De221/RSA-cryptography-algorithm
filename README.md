@@ -1,2 +1,2 @@
 # RSA-cryptography-algorithm
-An C# (Windows Forms) application representing the RSA algorithm.
+A C# (Windows Forms) application representing the RSA algorithm.
